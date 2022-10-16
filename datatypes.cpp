@@ -31,4 +31,7 @@ int main(){
 
     int size_f_ka = sizeof(f);
     cout << size_f_ka <<endl;
+
+    unsigned int ne = -2 ;
+    cout << ne << endl;
 }
